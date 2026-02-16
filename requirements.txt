@@ -1,0 +1,11 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+xgboost
+python-whois==0.7.3
+ucimlrepo==0.0.7
+tldextract==3.4.0
+scikit-learn
+pandas
+numpy
+requests==2.31.0
+pyopenssl==23.2.0
